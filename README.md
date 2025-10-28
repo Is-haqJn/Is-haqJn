@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there, I'm Mohammed Is-haq Kofi
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" /> Hey there, I'm Mohammed, Is-haq Kofi
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=800&lines=Cybersecurity+%26+IT+Specialist+%F0%9F%94%90;Full-Stack+Developer+%F0%9F%92%BB;Project+Manager+%F0%9F%93%8A;Educator+%26+Mentor+%F0%9F%8E%93;Digital+Forensics+Researcher+%F0%9F%94%8D" alt="Typing SVG" />
